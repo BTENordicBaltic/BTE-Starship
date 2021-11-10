@@ -4,7 +4,7 @@
 
 # BTE Starship
 
-_The main bot for the BuildTheEarth Discord servers._
+_The bot that looks over the Nordic - Baltic BTE server._
 
 ## Bot
 
