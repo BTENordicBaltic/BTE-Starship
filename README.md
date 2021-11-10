@@ -6,28 +6,11 @@
 
 _The main bot for the BuildTheEarth Discord servers._
 
-</div>
-
--   [Bot](#Bot)
--   [Contributors](#Contributors)
--   [Development](#Development)
-    -   [Cloning](#Cloning)
-    -   [Dependency setup](#Dependency-setup)
-    -   [Configuration](#Configuration)
-    -   [Scripts](#Scripts)
--   [Changelog](#Changelog)
--   [License](#License)
-
-
 ## Bot
 
 This bot is used both in the main Build The Earth server and in the staff server. It's filled with features useful for both of these, including moderation and management commands, suggestions, and utilities exclusive to our project operations.
 
 You shouldn't use this bot on your own servers as it's heavily customized for our needs. Running the bot is not supported (unless you're planning on contributing!).
-
-## Changelog
-
-To follow all of the changes made to the bot since its first release, check the [Changelog](changelog.md).
 
 ## License
 
