@@ -8,9 +8,9 @@ _The bot that looks over the Nordic - Baltic BTE server._
 
 ## Bot
 
-This bot is used both in the main Build The Earth server and in the staff server. It's filled with features useful for both of these, including moderation and management commands, suggestions, and utilities exclusive to our project operations.
+This discord bot is used for the Nordic - Baltic discord server, and is mainly designed around it. With helpful commands, moderation and support commands to support the server and its infrustructure of its growing community
 
-You shouldn't use this bot on your own servers as it's heavily customized for our needs. Running the bot is not supported (unless you're planning on contributing!).
+This bot is not meant for second hand use in other discord servers, if you are looking to use this bot for your community, we do not support/help you to set it up.
 
 ## License
 
