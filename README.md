@@ -2,7 +2,7 @@
 
 <img width="128" src="https://cdn.discordapp.com/attachments/716715052002050058/788549494529982505/nordic.gif" />
 
-# main bot
+# BTE Starship
 
 _The main bot for the BuildTheEarth Discord servers._
 
